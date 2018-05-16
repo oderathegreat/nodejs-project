@@ -4,10 +4,11 @@
   "description": "",
   "main": "app.js",
   "dependencies": {
-    "semver": "^5.5.0"
+    "semver": "5.5.0"
   },
   "devDependencies": {},
   "scripts": {
+
     "dev": "nodemon server.js"
   },
   "repository": {
